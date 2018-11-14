@@ -1,0 +1,19 @@
+{
+  "bucket": "coffay-storage",
+  "contentType": "image/jpeg",
+  "crc32c": "i7YiHg==",
+  "etag": "CMnWm73Yzd4CEAE=",
+  "generation": "1541985729440585",
+  "id": "coffay-storage/yourshot.nationalgeographic.jpg/1541985729440585",
+  "kind": "storage#object",
+  "md5Hash": "LiLur16iwhLSdaoAprtI1w==",
+  "mediaLink": "https://www.googleapis.com/download/storage/v1/b/coffay-storage/o/yourshot.nationalgeographic.jpg?generation=1541985729440585&alt=media",
+  "metageneration": "1",
+  "name": "yourshot.nationalgeographic.jpg",
+  "selfLink": "https://www.googleapis.com/storage/v1/b/coffay-storage/o/yourshot.nationalgeographic.jpg",
+  "size": "262518",
+  "storageClass": "REGIONAL",
+  "timeCreated": "2018-11-12T01:22:09.440Z",
+  "timeStorageClassUpdated": "2018-11-12T01:22:09.440Z", 
+  "updated": "2018-11-12T01:22:09.440Z"
+}
